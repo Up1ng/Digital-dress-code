@@ -1,0 +1,30 @@
+{
+  "name": "untitled",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^0.10.22-rc.20250304",
+    "@primevue/themes": "^4.4.1",
+    "dexie": "^4.0.8",
+    "konva": "^9.3.13",
+    "onnxjs": "^0.1.8",
+    "onnxruntime-web": "^1.23.0",
+    "pinia": "^2.2.6",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.1.0",
+    "vue": "^3.5.22",
+    "vue-konva": "^3.0.2",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.7",
+    "vite-plugin-static-copy": "^3.1.4"
+  }
+}
